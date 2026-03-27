@@ -4,7 +4,7 @@
 // https://yalter.github.io/niri/Configuration:-Introduction
 
 prefer-no-csd
-spawn-at-startup "swaybg" "-m" "fill" "-i" "/home/richard/Pictures/wavy_lines_v01_5120x2880.png"
+spawn-at-startup "swaybg" "-m" "fill" "-i" "/home/richard/Pictures/Wallpapers/wavy_lines.png"
 spawn-at-startup "bitwarden-desktop"
 spawn-at-startup "/usr/lib/deja-dup/deja-dup-monitor"
 spawn-at-startup "insync start"
