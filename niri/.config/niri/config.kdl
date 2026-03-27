@@ -118,6 +118,12 @@ window-rule {
     open-floating true
 }
 
+// Open bitwarden in a floating window
+window-rule {
+    match app-id="bitwarden$"
+    open-floating true
+}
+
 // Rounded corners for all windows for a softer Catppuccin look.
 window-rule {
     geometry-corner-radius 12
