@@ -1,0 +1,59 @@
+# Same wallpaper as swaybg
+image=/home/richard/Pictures/wavy_lines_v01_5120x2880.png
+scaling=fill
+
+# General
+daemonize
+ignore-empty-password
+show-failed-attempts
+
+# Clock
+clock
+timestr=%H:%M
+datestr=%A, %d %B
+
+# Frosted look
+effect-blur=7x5
+effect-vignette=0.35:0.35
+
+# Catppuccin Mocha palette
+# base      #1e1e2e
+# mantle    #181825
+# crust     #11111b
+# text      #cdd6f4
+# surface0  #313244
+# surface1  #45475a
+# blue      #89b4fa
+# mauve     #cba6f7
+# red       #f38ba8
+
+# Background tint
+color=11111b66
+
+# Indicator styling (only shown when active)
+indicator-radius=110
+indicator-thickness=8
+
+inside-color=1e1e2ecc
+ring-color=313244ff
+line-color=00000000
+separator-color=00000000
+text-color=cdd6f4ff
+
+key-hl-color=89b4faff
+bs-hl-color=f38ba8ff
+
+inside-clear-color=89b4facc
+ring-clear-color=89b4faff
+text-clear-color=11111bff
+line-clear-color=00000000
+
+inside-ver-color=00000000
+ring-ver-color=00000000
+text-ver-color=00000000
+line-ver-color=00000000
+
+inside-wrong-color=f38ba8cc
+ring-wrong-color=f38ba8ff
+text-wrong-color=11111bff
+line-wrong-color=00000000
