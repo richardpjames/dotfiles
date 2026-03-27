@@ -104,3 +104,6 @@ source $ZSH/oh-my-zsh.sh
 # alias ohmyzsh="mate ~/.oh-my-zsh"
 
 export SSH_AUTH_SOCK="$HOME/.bitwarden-ssh-agent.sock"
+
+export PATH="$HOME/.local/bin:$HOME/bin:$PATH"
+eval "$(oh-my-posh init zsh  --config "$HOME/.config/oh-my-posh/catppuccin-mocha.omp.json")"

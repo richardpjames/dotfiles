@@ -11,6 +11,7 @@ This repository contains configuration for
  - Git (providing my name and email)
  - Mako (providing Catppuccin theming)
  - Niri (providing configuration for my window manager)
+ - Oh My Posh (Adds further theming to zsh)
  - Swaylock (providing theming for my lock screen)
  - Waybar (setup and theming for my top bar)
  - Wallpapers (this will place my wallpapers in Pictures/Wallpaper)
